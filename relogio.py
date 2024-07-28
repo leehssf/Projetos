@@ -2,8 +2,8 @@ from tkinter import *
 import tkinter
 from datetime import datetime
 
-# import pyglet # pip intall pyglet
-# pyglet.font.add_file("digital-7.ttf")
+import pyglet # pip intall pyglet
+pyglet.font.add_file("digital-7.ttf")
 
 fundo = #87cefa
 cor = #ac1313
