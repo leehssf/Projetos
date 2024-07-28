@@ -3,7 +3,7 @@ import tkinter
 from datetime import datetime
 
 import pyglet # pip intall pyglet
-pyglet.font.add_file("digital-7.ttf")
+pyglet.font.add_file("digital-7.regular.ttf.otf")
 
 fundo = #87cefa
 cor = #ac1313
